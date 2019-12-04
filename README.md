@@ -12,5 +12,6 @@ notaðir voru vírar, buzzer og usds (distance sensor)
 >
 [herna er link af videoinu](https://youtu.be/BCcSKW3x60I)
 ## skra 
+[þetta er cóðinn](arduinowave/arduinowave.ino)
 
 
